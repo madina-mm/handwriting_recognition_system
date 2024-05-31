@@ -1,0 +1,21 @@
+python test.py --trained_model=craft_mlt_25k.pth --test_folder=test_images --poly
+
+python test.py --test_folder=test_images
+
+cd Desktop\CRAFT
+
+python test.py --test_folder=test_images --text_threshold=0.9
+
+python test.py --text_threshold=0.6 --low_text=0.6 --test_folder=test_images
+
+
+python test.py --low_text=0.6 --char_bound_upper=3 --char_bound_left=2 --test_folder=test_images/JosefKPaneuropean
+
+python test.py --low_text=0.5 --char_bound_upper=0 --char_bound_left=0 --test_folder=test_images/Caveat
+python test.py --low_text=0.66 --char_bound_upper=0 --char_bound_left=0 --test_folder=test_images/Caveat
+
+
+python test.py --low_text=0.47 --char_bound_upper=3 --char_bound_left=3 --test_folder=test_images/JosefKPaneuropean --result_folder=result/JosefKPaneuropean
+
+
+python test.py --low_text=0.5 --test_folder=test_images/JosefKPaneuropean --result_folder=result/JosefKPaneuropean

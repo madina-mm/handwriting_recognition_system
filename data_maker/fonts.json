@@ -1,0 +1,99 @@
+{
+    "0": {
+        "font_name": "JosefKPaneuropean.ttf",
+        "font_size": 65,
+        "font_width_factor": 0.4,
+        "line_spacing": 20,
+        "low_text": 0.47,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "1": {
+        "font_name": "Caveat.ttf",
+        "font_size": 55,
+        "font_width_factor": 0.4,
+        "line_spacing": 10,
+        "low_text": 0.68,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "2": {
+        "font_name": "Justtellmewhat.otf",
+        "font_size": 45,
+        "font_width_factor": 0.45,
+        "line_spacing": 20,
+        "low_text": 0.68,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "3": {
+        "font_name": "MarckScript.otf",
+        "font_size": 45,
+        "font_width_factor": 0.55,
+        "line_spacing": 20,
+        "low_text": 0.47,
+        "char_bound_upper": 7,
+        "char_bound_left": 4
+    },
+    "4": {
+        "font_name": "President.ttf",
+        "font_size": 45,
+        "font_width_factor": 0.55,
+        "line_spacing": 20,
+        "low_text": 0.66,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "5": {
+        "font_name": "CoalHandLuke.ttf",
+        "font_size": 45,
+        "font_width_factor": 0.55,
+        "line_spacing": 25,
+        "low_text": 0.53,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "6": {
+        "font_name": "LioneloParis.otf",
+        "font_size": 45,
+        "font_width_factor": 0.55,
+        "line_spacing": 15,
+        "low_text": 0.58,
+        "char_bound_upper": 7,
+        "char_bound_left": 6
+    },
+    "7": {
+        "font_name": "AromiaScriptThin.otf",
+        "font_size": 45,
+        "font_width_factor": 0.57,
+        "line_spacing": 25,
+        "low_text": 0.51
+    },
+    "8": {
+        "font_name": "BadComic.otf",
+        "font_size": 45,
+        "font_width_factor": 0.55,
+        "line_spacing": 20,
+        "low_text": 0.7,
+        "char_bound_upper": 7,
+        "char_bound_left": 8
+    },
+    "9": {
+        "font_name": "IlkDersv2.otf",
+        "font_size": 45,
+        "font_width_factor": 0.62,
+        "line_spacing": 20,
+        "low_text": 0.75,
+        "char_bound_upper": 9,
+        "char_bound_left": 11
+    },
+    "10": {
+        "font_name": "PetitFormalScript.otf",
+        "font_size": 40,
+        "font_width_factor": 0.7,
+        "line_spacing": 20,
+        "low_text": 0.65,
+        "char_bound_upper": 9,
+        "char_bound_left": 9
+    }
+}
